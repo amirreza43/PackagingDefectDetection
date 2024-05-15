@@ -1,0 +1,45 @@
+Evaluation results for ResNet50_V1:
+Confusion matrix:
+[[44  0]
+ [36  0]]
+Accuracy: 0.5500
+F1 score: 0.0000
+Recall: 0.0000
+Precision: 0.0000
+
+Evaluation results for EfficientNet:
+Confusion matrix:
+[[39  5]
+ [ 7 29]]
+Accuracy: 0.8500
+F1 score: 0.8286
+Recall: 0.8056
+Precision: 0.8529
+
+Evaluation results for DenseNet:
+Confusion matrix:
+[[41  3]
+ [ 2 34]]
+Accuracy: 0.9375
+F1 score: 0.9315
+Recall: 0.9444
+Precision: 0.9189
+
+Evaluation results for VGG:
+Confusion matrix:
+[[44  0]
+ [36  0]]
+Accuracy: 0.5500
+F1 score: 0.0000
+Recall: 0.0000
+Precision: 0.0000
+
+Evaluation results for GoogleViT:
+Confusion matrix:
+[[44  0]
+ [36  0]]
+Accuracy: 0.5500
+F1 score: 0.0000
+Recall: 0.0000
+Precision: 0.0000
+
